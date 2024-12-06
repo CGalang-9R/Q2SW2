@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	text-align: center;
+}
+
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2015/04/25/23/32/wormhole-739872_1280.png)
+}
+
+.container{
+	background-color: black;
+	color:lightgreen;
+	font-family:"Roboto Mono", monospace;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+a {
+	color: lightgreen;
+	text-decoloration: none;
+	text-decoration:none;
+}
+
+.footer {
+	background-color: black;
+	padding: 40px;
+	text-align: center;
+	font-family:"Roboto Mono", monospace;
+}
